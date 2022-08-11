@@ -1,0 +1,6 @@
+character_name="python"
+print ("hello there")
+print ("first project is " + character_name +"," )
+print("whereas " + character_name +" is a easy to use language")
+print("in which preset values can be added with '+ character_name +' ")
+print("where string subject needs to be changed only once")
